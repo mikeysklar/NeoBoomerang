@@ -20,6 +20,8 @@ FreeCAD
 * FreeCAD 0.21.2
 * Minimal 3D printed plate for mounting
 
+![Screenshot](pics/NeoBoomerang-3.jpeg)
+
 BOM
 ===
 | Item       | Source     | Part Number        |
