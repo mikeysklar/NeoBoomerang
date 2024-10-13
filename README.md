@@ -48,6 +48,7 @@ BOM
     <li><strong>Pinky finger</strong></li>
   </ol>
 
+
 - **Thumb**:
   - <span style="color:blue;">Blue</span>: white space  
   - <span style="color:green;">Green</span>: letters  
