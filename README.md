@@ -32,3 +32,13 @@ BOM
 | Cables     | Adafruit   | [STEMMA QT 50mm](https://www.adafruit.com/product/4399) |
 | Cables     | Adafruit   | [STEMMA QT 200mm](https://www.adafruit.com/product/4401) |
 | Screws     | Adafruit   | [M2.5 Machine Screws / Stand-off](https://www.adafruit.com/product/3299) |
+
+![Screenshot](pics/NeoBoomerang-4.jpeg)
+
+Typing Speed
+===
+- 20 WPM is my best
+- 16-18 WPM is typical
+
+
+
