@@ -39,23 +39,18 @@ BOM
 - **20 WPM** is my best  
 - **16-18 WPM** is typical
 
-### Left Handed Layout
-- **UV buttons** are for fingers:
-  <ol style="list-style-type: decimal;">
-    <li><strong>Index finger</strong></li>
-    <li><strong>Middle finger</strong></li>
-    <li><strong>Ring finger</strong></li>
-    <li><strong>Pinky finger</strong></li>
-  </ol>
-
-
-- **Thumb**:
-  - <span style="color:blue;">Blue</span>: white space  
-  - <span style="color:green;">Green</span>: letters  
-  - <span style="color:yellow;">Yellow</span>: numbers  
-  - <span style="color:red;">Red</span>: delete
-
-### Chord Chart:
-Chord Chart:
-
 ![Screenshot](pics/NeoBoomerang-5.jpeg)
+
+Left Handed Layout
+===
+- **UV buttons** are for fingers:
+  1. **Index finger**
+  2. **Middle finger**
+  3. **Ring finger**
+  4. **Pinky finger**
+
+- **Thumb**
+  - **Blue**: white space  
+  - **Green**: letters  
+  - **Yellow**: numbers  
+  - **Red**: delete
