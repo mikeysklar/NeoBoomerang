@@ -35,10 +35,27 @@ BOM
 
 ![Screenshot](pics/NeoBoomerang-4.jpeg)
 
-Typing Speed
+Typing 
 ===
+
+Speed
 - 20 WPM is my best
 - 16-18 WPM is typical
 
+- Left handed layout
 
+- UV buttons are for fingers:
+ * (1) index
+ * (2) middle
+ * (3) ring
+ * (4) pinky
 
+- Thumb:
+ * blue - white space
+ * green - letters
+ * yellow - numbers
+ * red - delete
+
+Chord Chart:
+
+![Screenshot](pics/NeoBoomerang-5.jpeg)
